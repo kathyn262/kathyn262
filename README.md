@@ -1,4 +1,4 @@
-👋    Moved to @kathyn138!
+👋    Moved to [@kathyn138](https://github.com/kathyn138)!
 
 <!---
 kathyn262/kathyn262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
